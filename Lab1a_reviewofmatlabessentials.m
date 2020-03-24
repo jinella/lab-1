@@ -30,6 +30,19 @@ fprintf('Heavy rainfall occured on %d this year.\n',heavyrainfall);
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+%%% below code are trials - don't include
 % heavyrainfall = find(x(:,4)>80);
 % H = sprintf('Heavy rainfall occured on %d',heavyrainfall);
 % disp(H)
